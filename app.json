@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "prueba-tecnica",
-    "slug": "prueba-tecnica",
+    "name": "todolist",
+    "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
